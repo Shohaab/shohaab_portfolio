@@ -1,0 +1,17 @@
+# Ignore dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+
+# Ignore build folders
+dist/
+build/
+.vercel
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore separate portfolio directory
+shohaab_portfolio/
