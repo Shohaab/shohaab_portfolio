@@ -58,7 +58,16 @@ const projects = [
         viewCode: "https://github.com/Shohaab/shohaab_portfolio",
     },
 
+    {
+        id: 8,
+        title: "Inventory Management System",
+        description: "Built an inventory management system with HTML ,CSS(Tailwind) JavaScript PHP .",
+        image: "/images/project8.png",
+        techStack: ["Python", "Django"],
+        viewCode: "https://github.com/Shohaab/Inventory-Management-System",
+    },
 
+    
 
 
 
