@@ -68,6 +68,25 @@ const projects = [
     },
 
 
+     {
+        id: 9,
+        title: "University Admission Portal",
+        description: "Built an University Admission Portal  with Python Django FrameWork .",
+        image: "/images/project9.png",
+        techStack: ["Python", "Django"],
+        viewCode: "https://github.com/Shohaab/Admission-Portal",
+    },
+
+    {
+        id: 10,
+        title: "University Chatbot",
+        description: "Built an University Chatbot  with Python Streamlit Custom Model Trained  .",
+        image: "/images/project10.png",
+        techStack: ["Python", "Streamlit"],
+        viewCode: "https://github.com/Shohaab/chatbot",
+    },
+
+
 
 
 
